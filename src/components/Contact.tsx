@@ -1,4 +1,3 @@
-import React from "react";
 import { MdDesignServices, MdEmail, MdWebAsset } from "react-icons/md";
 
 const Contact = () => {
