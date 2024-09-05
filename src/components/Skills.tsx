@@ -31,6 +31,7 @@ const Skills = () => {
 					{skills.map((skill) => (
 						<div className="flex items-center justify-center w-40 h-40 mx-auto rounded-md bg-secondary/10">
 							<img
+								className="duration-300 hover:scale-110"
 								src={`/images/${skill}.png`}
 								alt={skill}
 								width={90}
