@@ -20,7 +20,7 @@ const Home = () => {
 			{/* Right */}
 			<div>
 				<img
-					src="/images/my-photo.png"
+					src="/images/photo.png"
 					className="items-end bg-gray-100 rounded-md"
 					width={300}
 					height={300}
